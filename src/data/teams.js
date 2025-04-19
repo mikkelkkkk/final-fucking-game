@@ -1,1 +1,0 @@
-// Real team data with color codes and logos
